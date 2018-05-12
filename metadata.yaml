@@ -1,0 +1,31 @@
+_repo: Western-Scenes-and-ReminiscencesMen-of-the-Forest_39898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schoolcraft, Henry Rowe
+    alias: Schoolcraft, Henry R. (Henry Rowe)
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_issued: '2012-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39898'
+  lccn: '03005665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America'
+- !lcsh 'Indian captivities'
+title: "Western Scenes and Reminiscences\r\nTogether with Thrilling Legends and Traditions\
+  \ of the Red Men of the Forest"
+url: http://www.gutenberg.org/ebooks/39898
