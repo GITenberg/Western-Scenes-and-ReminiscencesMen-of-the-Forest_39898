@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39898#Western-Scenes-and-ReminiscencesMen-of-the-Forest
 gutenberg_issued: '2012-06-02'
 gutenberg_type: Text
 identifiers:
